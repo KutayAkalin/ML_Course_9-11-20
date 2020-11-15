@@ -11,3 +11,9 @@ Note: Open Colabs in new tab!
 ## Lesson-3
 - Logistic Regression
 - Regularization
+## Lesson-4
+- Decision Trees
+## Lesson-5
+- Unsupervised Learning
+
+#### Project
